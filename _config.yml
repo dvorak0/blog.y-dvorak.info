@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://blog.y-dvorak.info
+title: DVORAK
+subtitle: 人生就是个大号DP
+author: dvorak
 simple_search: http://google.com/search
 description:
 
@@ -29,7 +29,7 @@ email:
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/Blog
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: DVORAK
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
