@@ -4,7 +4,7 @@
   <title><![CDATA[DVORAK]]></title>
   <link href="http://blog.y-dvorak.info/atom.xml" rel="self"/>
   <link href="http://blog.y-dvorak.info/"/>
-  <updated>2012-11-07T20:53:14+08:00</updated>
+  <updated>2012-11-07T20:56:55+08:00</updated>
   <id>http://blog.y-dvorak.info/</id>
   <author>
     <name><![CDATA[dvorak]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first]]></title>
+    <link href="http://blog.y-dvorak.info/2012/11/07/first/"/>
+    <updated>2012-11-07T20:55:00+08:00</updated>
+    <id>http://blog.y-dvorak.info/2012/11/07/first</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
