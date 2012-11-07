@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[DVORAK]]></title>
-  <link href="http://blog.y-dvorak.info/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 只是记录 | DVORAK]]></title>
+  <link href="http://blog.y-dvorak.info/blog/categories/只是记录/atom.xml" rel="self"/>
   <link href="http://blog.y-dvorak.info/"/>
   <updated>2012-11-07T22:03:35+08:00</updated>
   <id>http://blog.y-dvorak.info/</id>
