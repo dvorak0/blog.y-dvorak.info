@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[DVORAK]]></title>
-  <link href="http://dvorak0.github.com/blog/atom.xml" rel="self"/>
-  <link href="http://dvorak0.github.com/blog/"/>
-  <updated>2012-11-07T20:28:17+08:00</updated>
-  <id>http://dvorak0.github.com/blog/</id>
+  <link href="http://blog.y-dvorak.info/atom.xml" rel="self"/>
+  <link href="http://blog.y-dvorak.info/"/>
+  <updated>2012-11-07T20:29:33+08:00</updated>
+  <id>http://blog.y-dvorak.info/</id>
   <author>
     <name><![CDATA[dvorak]]></name>
     
